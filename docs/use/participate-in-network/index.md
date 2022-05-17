@@ -79,3 +79,5 @@ For those who are interested to dig in deeper to some these mechanisms and compa
 >
 > - Holders can check the end of their lock period by querying the chain state with `democracy.locks(AccountId)` which returns the block number that the lock is active until
 > - Once the lock period has passed, any CFG holder can call `democracy.unlock(addr)` to unlock the tokens
+
+I JUST ADDED THIS /RHANO
